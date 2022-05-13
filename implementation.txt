@@ -1,7 +1,0 @@
-the plate will be used as the component to sense the existing of water. However, this sensor
-was not very effective as it senses the water, the system will automatically ON the wiper at only one speed. The second
-conceptual design is a two lines plate with a high and low line. The function of the low line plate is to detect the
-showery rain. The high line plate is to detect the heavy rain. The third conceptual used the stamping concept. The
-stamping sensor is a good sensor for sensing the moist, any kind of water or raindrops. Nevertheless the sensor is very
-expensive. After considered all these criteria, second conceptual design was chosen to construct the circuit. The circuit
-was changes from single relay to double relay as an input to PIC controller system
